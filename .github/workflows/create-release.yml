@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3.6.0
       with:
-        repository: "PCSX2/pcsx2"
+        repository: "boingdepina/pcsx2"
         fetch-depth: 0
         submodules: false
 
